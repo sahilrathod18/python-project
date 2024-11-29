@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Who is known as the 'Father of the Nation' in India?",
+        "options": ["A) Jawaharlal Nehru", "B) Mahatma Gandhi", "C) Subhas Chandra Bose", "D) Bhagat Singh"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the national animal of India?",
+        "options": ["A) Elephant", "B) Lion", "C) Tiger", "D) Peacock"],
+        "answer": "C"
+    },
+    {
+        "question": "In which year did India gain independence from British rule?",
+        "options": ["A) 1945", "B) 1947", "C) 1950", "D) 1952"],
+        "answer": "B"
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["A) Sardar Vallabhbhai Patel", "B) Dr. B.R. Ambedkar", "C) Jawaharlal Nehru", "D) Rajendra Prasad"],
+        "answer": "C"
+    },
+    {
+        "question": "Which Indian festival is known as the 'Festival of Lights'?",
+        "options": ["A) Holi", "B) Diwali", "C) Dussehra", "D) Navratri"],
+        "answer": "B"
+    },
+    {
+        "question": "Which is the largest state in India by area?",
+        "options": ["A) Maharashtra", "B) Uttar Pradesh", "C) Rajasthan", "D) Madhya Pradesh"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the national sport of India?",
+        "options": ["A) Cricket", "B) Hockey", "C) Kabaddi", "D) Football"],
+        "answer": "B"
+    }
+  
+]
